@@ -15,7 +15,7 @@
     <p>The mission of the San Antonio Math Circle is to identify and develop exceptional high school math students in San Antonio.</p>
     <h2 class="text-3xl my-4">About the Circle</h2>
     <p>The Circle is a place for students interested in mathematics to interact with one another and to learn math, solve problems and participate in math competitions.
-    We strive to engage and encourage all interested students to join this highly enriched community in which like-minded, interested students deepen their appreciation, understanding and enjoyment of Mathematics.</p>
+      We strive to engage and encourage all interested students to join this highly enriched community in which like-minded, interested students deepen their appreciation, understanding and enjoyment of Mathematics.</p>
     <h2 class="text-3xl my-4">Interested in joining? Apply at no cost <a target="_blank" class="underline" href={apply_link}>today!</a></h2>
     <p>Or, contact us at <span class="underline">sanantoniomathcircle@gmail.com</span></p>
   </div>

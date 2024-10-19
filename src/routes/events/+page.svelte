@@ -3,7 +3,6 @@
   import Navbar from "../../lib/components/Navbar.svelte";
   import EventCard from "../../lib/components/EventCard.svelte";
   import Page from "../../lib/components/Page.svelte";
-  const apply_link = "https://forms.gle/MNBDNZHCxkmP9XRo8";
 </script>
 <meta name='description' content='The events page for the San Antonio Math Circle'/>
 <Page title="Circle Events">
