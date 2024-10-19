@@ -5,8 +5,8 @@
   import Page from "../../lib/components/Page.svelte";
   const apply_link = "https://forms.gle/MNBDNZHCxkmP9XRo8";
 </script>
-<meta name='description' content='The home page for the San Antonio Math Circle'/>
-<Page title="San Antonio Math Circle">
+<meta name='description' content='The SA Math Circle leadership team'/>
+<Page title="SA Math Circle Team">
   <div slot="nav">
     <Navbar {base}/>
   </div>
