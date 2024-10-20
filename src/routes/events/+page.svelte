@@ -11,7 +11,7 @@
   </div>
   <div slot="content">
     <h1 class="text-5xl text-center my-12 text-blue-500">Events</h1>
-    <p class="text-2xl">None planned yet - stay tuned!</p>
+    <p class="text-xl">None planned yet - stay tuned!</p>
     <!-- <EventCard name="First Meeting" date="November 31" loc="school" desc="Be there!"/>  -->
   </div>
 </Page>

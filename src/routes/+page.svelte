@@ -16,7 +16,7 @@
     <h2 class="text-3xl my-4">About the Circle</h2>
     <p>The Circle is a place for students interested in mathematics to interact with one another and to learn math, solve problems and participate in math competitions.
       We strive to engage and encourage all interested students to join this highly enriched community in which like-minded, interested students deepen their appreciation, understanding and enjoyment of Mathematics.</p>
-    <h2 class="text-3xl my-4">Interested in joining? Apply at no cost <a target="_blank" class="underline" href={apply_link}>today!</a></h2>
-    <p>Or, contact us at <span class="underline">sanantoniomathcircle@gmail.com</span></p>
+    <h2 class="text-3xl my-4">Interested in joining? <a target="_blank" class="text-blue-500 underline" href={apply_link}>Apply at no cost today!</a></h2>
+    <p>Or, contact us at <a class="underline text-blue-500" href="mailto:sanantoniomathcircle@gmail.com">sanantoniomathcircle@gmail.com.</a></p>
   </div>
 </Page>
