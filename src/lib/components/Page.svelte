@@ -4,7 +4,7 @@
 <title>{title}</title>
 <body class="bg-white w-screen font-sans text-black">
   <slot name="nav"></slot>
-  <main class="lg:w-1/2 m-auto"> 
+  <main class="mx-2 lg:w-1/2 lg:m-auto"> 
     <slot name="content"></slot>
   </main>
   <div class="h-[50vh] lg:h-[90vh]"></div>
