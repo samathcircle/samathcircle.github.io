@@ -3,10 +3,6 @@
 	const apply_link = 'https://forms.gle/MNBDNZHCxkmP9XRo8';
 </script>
 
-<meta
-	name="description"
-	content="The home page for the San Antonio Math Circle"
-/>
 <Page title="San Antonio Math Circle">
 	<div slot="content">
 		<h1 class="my-12 text-center text-5xl text-blue-500">

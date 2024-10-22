@@ -6,6 +6,10 @@
 
 <svelte:head>
 	<title>William Liu</title>
+	<meta
+		name="description"
+		content="The website of the San Antonio Math Circle"
+	/>
 </svelte:head>
 <div class="min-h-full bg-white">
 	<Navbar {base} />
