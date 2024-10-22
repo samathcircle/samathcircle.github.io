@@ -30,7 +30,7 @@ export default {
 			strict: true
 		}),
 		paths: {
-			base: "/ghpages"
+			base: '/ghpages'
 		}
 	}
 };
