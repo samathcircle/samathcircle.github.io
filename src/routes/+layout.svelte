@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>William Liu</title>
+	<title>San Antonio Math Circle</title>
 	<meta
 		name="description"
 		content="The website of the San Antonio Math Circle"
