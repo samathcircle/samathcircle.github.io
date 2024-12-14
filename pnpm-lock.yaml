@@ -36,7 +36,7 @@ importers:
         specifier: ^15.13.0
         version: 15.13.0
       prettier:
-        specifier: 3.4.2
+        specifier: ^3.4.2
         version: 3.4.2
       prettier-plugin-svelte:
         specifier: ^3.3.2
