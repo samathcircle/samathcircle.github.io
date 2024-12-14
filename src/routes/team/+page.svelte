@@ -1,18 +1,17 @@
 <script lang="ts">
-	import TeamCard from '$lib/components/TeamCard.svelte';
-	import Page from '../../lib/components/Page.svelte';
+    import TeamCard from '$lib/components/TeamCard.svelte';
+    import Page from '../../lib/components/Page.svelte';
 </script>
 
-<meta name="description" content="The SA Math Circle leadership team" />
-<Page title="SA Math Circle Team">
-	<div slot="content">
-		<h1 class="my-12 text-center text-5xl text-blue-500">Team Officials</h1>
-		<TeamCard
-			first="William"
-			last="Liu"
-			desc="William is a sophomore at Reagan High School. In his free time, he likes to play violin, participate in math contests, and code."
-			role="Co-founder, Webmaster"
-			img="william.png"
-		/>
-	</div>
+<Page>
+    <div slot="content">
+        <h1 class="my-12 text-center text-5xl text-blue-500">Team Officials</h1>
+        <TeamCard
+            first="William"
+            last="Liu"
+            desc="William is a sophomore at Reagan High School. In his free time, he likes to play violin, participate in math contests, and code."
+            role="Co-founder, Webmaster"
+            img="william.png"
+        />
+    </div>
 </Page>
