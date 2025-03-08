@@ -6,7 +6,10 @@
 <Page>
     <div slot="content">
         <h1 class="my-12 text-center text-5xl text-blue-500">Events</h1>
-        <p>None planned yet - stay tuned!</p>
-        <!-- <EventCard name="First Meeting" date="November 31" loc="school" desc="Be there!"/>  -->
+        <EventCard
+            name="Stanford Math Tournament"
+            date="April 13, 2025"
+            desc="The Circle will be training for and competing in this competition."
+        />
     </div>
 </Page>

@@ -3,30 +3,32 @@
     "version": "0.0.1",
     "private": true,
     "scripts": {
-        "dev": "vite dev",
+        "dev": "vite dev --open",
         "build": "vite build",
-        "preview": "vite preview",
-        "a": "vite build && vite preview",
+        "preview": "vite preview --open",
+        "a": "vite build && pnpm preview",
         "lint": "eslint . && prettier --check .",
         "format": "prettier --write .",
-        "bump": "pnpm update -i"
+        "bump": "pnpm update -i --latest"
     },
     "devDependencies": {
-        "@sveltejs/adapter-static": "^3.0.6",
-        "@sveltejs/kit": "^2.11.1",
-        "@sveltejs/vite-plugin-svelte": "^5.0.2",
+        "@sveltejs/adapter-static": "^3.0.8",
+        "@sveltejs/kit": "^2.19.0",
+        "@sveltejs/vite-plugin-svelte": "^5.0.3",
+        "@tailwindcss/postcss": "^4.0.12",
         "@types/eslint": "^9.6.1",
-        "autoprefixer": "^10.4.20",
-        "eslint": "^9.17.0",
-        "eslint-config-prettier": "^9.1.0",
-        "eslint-plugin-svelte": "^2.46.1",
-        "globals": "^15.13.0",
-        "prettier": "^3.4.2",
-        "prettier-plugin-svelte": "^3.3.2",
-        "prettier-plugin-tailwindcss": "^0.6.9",
-        "svelte": "^5.13.0",
-        "tailwindcss": "^3.4.16",
-        "vite": "^6.0.3"
+        "eslint-config-prettier": "^10.1.1",
+        "eslint-plugin-svelte": "^3.0.3",
+        "globals": "^16.0.0",
+        "prettier": "^3.5.3",
+        "prettier-plugin-svelte": "^3.3.3",
+        "prettier-plugin-tailwindcss": "^0.6.11",
+        "svelte": "^5.22.6",
+        "tailwindcss": "^4.0.12",
+        "vite": "^6.2.1"
     },
-    "type": "module"
+    "type": "module",
+    "dependencies": {
+        "@eslint/js": "^9.22.0"
+    }
 }

@@ -20,7 +20,7 @@
             participate in math competitions. We strive to engage and encourage
             all interested students to join this highly enriched community in
             which like-minded, interested students deepen their appreciation,
-            understanding and enjoyment of Mathematics.
+            understanding and enjoyment of mathematics.
         </p>
         <h2 class="my-4 text-3xl">
             Interested in joining? <a

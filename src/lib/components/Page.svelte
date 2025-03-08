@@ -1,6 +1,6 @@
-<div class="w-screen bg-white font-sans text-black">
+<div class="bg-white font-sans text-black">
     <slot name="nav"></slot>
-    <main class="mx-2 lg:m-auto lg:w-1/2">
+    <main class="m-auto px-2 2xl:w-2/3">
         <slot name="content"></slot>
     </main>
     <div class="h-full pb-16"></div>

@@ -6,11 +6,7 @@
         <a class="cursor-pointer uppercase text-white" href="/resources"
             >Resources</a
         >
-        <a class="cursor-pointer uppercase text-white" href="/events"
-            >Events</a
-        >
-        <a class="cursor-pointer uppercase text-white" href="/team"
-            >Team</a
-        >
+        <a class="cursor-pointer uppercase text-white" href="/events">Events</a>
+        <a class="cursor-pointer uppercase text-white" href="/team">Team</a>
     </div>
 </div>

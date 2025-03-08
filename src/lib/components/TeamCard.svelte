@@ -1,5 +1,5 @@
 <script>
-    export let first, last, role, desc, img;
+    export let first, last, role, desc, img = "";
 </script>
 
 <section
@@ -14,7 +14,7 @@
         </h2>
         <h2 class="px-4 py-2 text-xl lg:text-2xl">{role}</h2>
         <div class="flex flex-row">
-            <img class="mx-4 h-20 w-20" src={img} alt="{first}!" />
+            <img class="mx-4 h-30" src={img} alt=" " />
             <p class="m-4 text-lg lg:text-xl">{desc}</p>
         </div>
     </div>
